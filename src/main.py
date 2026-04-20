@@ -6,7 +6,7 @@ import os
 def check_device(ip,log_file,lock):
     status = ping_device(ip)
     time = datetime.now()
-
+    print("CI test")
     with lock:
 
         if status:
