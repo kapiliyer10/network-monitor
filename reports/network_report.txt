@@ -1,0 +1,5 @@
+Network Test Report
+-------------------
+Total Devices: 4 
+Devices UP: 2 
+Devices DOWN: 2 
